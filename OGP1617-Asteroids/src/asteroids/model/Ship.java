@@ -77,6 +77,7 @@ public class Ship {
 	
 	public Ship() throws IllegalArgumentException{
 		 this(0.0,0.0,0.0,0.0,15.0,0.0);
+		 //testestest delete me TODO
 	}
 	
 	
